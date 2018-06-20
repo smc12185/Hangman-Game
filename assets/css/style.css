@@ -1,0 +1,53 @@
+body {
+    background-image:url(../images/mclaren.gif);
+    background-size: repeat;
+    background-position: center center;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 1%;
+    z-index: -10;
+}
+
+
+header {
+    color:red;
+    background-color: black;
+    border: 3px solid blue;
+    font-size: 100px;
+    text-align: center;
+    margin: 50px auto;
+    height: 300px;
+    width: 80%;
+
+}
+.underscore {
+    color: red;
+    background-color: black;
+    border: 3px solid blue;
+    font-size: 100px;
+    text-align: center;
+    margin: 50px auto;
+    height: 150px;
+    width: 80%;
+}
+
+.rightguess {
+    color: red;
+    border: 3px solid blue;
+    font-size: 20px;
+    text-align: center;
+    margin: 50px auto;
+    height: 150px;
+    width: 80%;
+}
+
+.wrongguess {
+    color: red;
+    border: 3px solid blue;
+    font-size: 20px;
+    text-align: center;
+    margin: 50px auto;
+    height: 150px;
+    width: 80%;
+}
